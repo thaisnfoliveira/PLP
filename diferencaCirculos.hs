@@ -1,3 +1,5 @@
+-- Faça um programa que dados dois raios referentes a dois círculos, calcule a diferença entre as áreas dos círculos
+
 area :: Float -> Float
 area r = pi *(r*r)
 
